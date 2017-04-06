@@ -55,3 +55,6 @@ name = "simple_treeview"
 
 [[bin]]
 name = "menu_bar"
+
+[[bin]]
+name = "multi_windows"
